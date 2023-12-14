@@ -1,0 +1,380 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    padding: 0;
+    align-items: center;
+    justify-content: space-between;
+}
+
+body {
+    margin: 0;
+    
+}
+
+.inicio {
+    background-color: black;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 70px;
+}
+
+.inicio a {
+    color: white;
+    text-decoration: none;
+    margin-left: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.inicio img {
+    margin-left: -75px;
+}
+
+.car img {
+    position: absolute;
+    top: 0;
+    right: 180px;
+    width: 50vh;
+    height: 50vh;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+.car {
+    background-color: #000000;
+    margin-top: -39.5px;
+    height: 65vh;
+    position: relative;
+    text-align: center;
+    padding-top: 0px;
+}
+
+.car h1 {
+    margin-left: -650px;
+    color: white;
+    font-size: 3em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.car p {
+    
+    margin-left: -650px;
+    color: #DCDCDC;
+    font-size: 1.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.4;
+}
+
+button {
+    margin-left: -650px;
+    color: #ffffff;
+    background-color: #FF3131;
+    padding: 10px 25px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+}
+
+span {
+    color: #FF3131;
+}
+
+#servicos {
+    background-color: #ffffff;
+    margin-left: 65px;
+}
+
+#servicos h2 {
+    padding-top: 300px;
+    margin-top: -100px;
+    margin-left: 65px;
+    color: #000000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.5em;
+    max-width: auto;
+}
+
+#servicos p {
+    color: #000000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    margin-left: 115px;
+    
+}
+
+.service {
+    margin: 5px;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: -12px;
+    gap: 30px;
+
+}
+
+.service img {
+    border-radius: 30px;
+    padding: 12px;
+}
+
+#manutencao p {
+    padding-left: 18px;
+    margin-top: 5px;
+}
+
+#mecanico p {
+    padding-left: 25px;
+    margin-top: 5px;
+}
+
+#revisao p {
+    padding-left: 0px;
+    margin-top: 5px;
+}
+
+#oleo p {
+    padding-left: 2px;
+    margin-top: 5px;
+}
+
+.confianca {
+    background-color: #000000;
+    margin-top: 240px;
+    padding: 40px;
+}
+
+.confianca h2 {
+    padding-top: 20px;
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 165px;
+    font-size: 2.5em;
+    max-width: auto;
+}
+
+.confianca p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    margin-left: 165px;
+    margin-top: 25px;
+    color: #DCDCDC;
+    line-height: 1.4;
+}
+
+.confianca img {
+    float: right;
+    margin-right: 260px;
+    margin-top: -438px;
+    border-radius: 10px;
+    width: 50vh;
+    height: 50vh;
+}
+
+.inicio a:hover {
+    color: #DC143C;
+}
+
+.mentoria h2 {
+    padding-top: 300px;
+    color: #000000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 150px;
+    margin-top: -40px;
+    font-size: 2.5em;
+    max-width: auto;
+}
+
+.mentoria p {
+    color: #363636;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    margin-left: 150px;
+    margin-top: 25px;
+    line-height: 1.4;
+}
+
+.confianca button {
+    color: #ffffff;
+    margin-top: 10px;
+    margin-left: 355px;
+}
+
+.mentoria img {
+    float: right;
+    margin-right: 610px;
+    margin-top: -405px;
+    border-radius: 10px;
+}
+
+.mentoria-2 img {
+    float: right;
+    margin-top: -405px;
+    margin-right: 170px;
+    border-radius: 10px;
+}
+
+#duvidas {
+    background-color: #000000;
+    height: auto;
+    margin-top: 250px;
+    display: flex;
+    align-items: center;
+    gap: 64px;
+    padding: 64px 80px;
+}
+
+#duvidas h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3em;
+    padding: 10px;
+    margin-top: 50px;
+    color: #ffffff;
+    margin-left: 110px;
+    
+    
+}
+
+#duvidas h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    color: #DC143C;
+    cursor: pointer;
+    margin-left: 110px;
+    
+}
+
+#duvidas p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    line-height: 1.0;
+    color: #ffffff;
+    margin-left: 110px;
+    
+}
+
+#duvidas img {
+    border-radius: 10px;
+    float: right;
+    margin-right: -70vh;
+    margin-top: -525px;
+    width: 50vh;
+    height: 50vh;
+}
+
+.duvida .paragrafo {
+    border-right: 1px solid #DC143C;
+    border-bottom: 1px solid #DC143C;
+    border-left: 1px solid #DC143C;
+    border-radius: 0 0 15px;
+    margin-top: -8px;
+    padding: 0 24px;
+    height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: .2s;
+    text-align: center;
+}
+
+.duvida {
+    position: relative;
+}
+
+.duvida.ativa .paragrafo {
+    height: fit-content;
+    opacity: 1;
+    padding: 24px;
+}
+
+.double {
+    height: auto;
+}
+
+#copyright {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 24px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#copyright a {
+    color: #DC143C;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer {
+    background-color: #363636;
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    padding: 64px 80px;
+}
+
+footer .titulo {
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 24px;
+    color: #000000;
+}
+
+footer nav a {
+    color: #ffffff;
+    display: block;
+    margin-bottom: 16px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer p {
+    margin-bottom: 16px;
+    max-width: 350px;
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer p a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.enter {
+    margin-left: 300px;
+    position: relative;
+    margin-top: -25px;
+}
+
+.in {
+    margin-left: 300px;
+    position: relative;
+}
+
+footer .titulo:hover {
+    color: #ffffff;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+footer nav a:hover {
+    color: #DC143C;
+    transition: 0.3s;
+}
+
+footer p:hover {
+    color: #DC143C;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.interacao img {
+    transition: transform 0.3s ease-in-out;
+}
+
+.interacao img:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
