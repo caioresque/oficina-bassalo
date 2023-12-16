@@ -15,3 +15,18 @@
 
 - Layout Preview
  <img src="/assets/oficina.png">
+
+
+## Contatos
+
+<div>
+
+- Facebook - <a href="https://www.facebook.com/caio.resque">@caio.resque</a>
+- Instagram - <a href="https://instagram.com/caio.resque">@caio.resque</a>
+- LinkedIn - <a href="https://www.linkedin.com/in/caioresque">@caioresque</a>
+- Twitter - <a href="https://twitter.com/caioresque">@caioresque</a>
+- Email - <a href="mailto:caio.resque@gmail.com">caio.resque@gmail.com</a>
+- Whatsapp - <a href="https://wa.me/5511952144137">551195214-4137</a>
+
+</div>
+
