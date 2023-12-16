@@ -26,7 +26,7 @@
 - LinkedIn - <a href="https://www.linkedin.com/in/caioresque">@caioresque</a>
 - Twitter - <a href="https://twitter.com/caioresque">@caioresque</a>
 - Email - <a href="mailto:caio.resque@gmail.com">caio.resque@gmail.com</a>
-- Whatsapp - <a href="https://wa.me/5511952144137">551195214-4137</a>
+- Whatsapp - <a href="https://wa.me/5511952144137">55 11 95214-4137</a>
 
 </div>
 
