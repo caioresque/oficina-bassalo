@@ -8,3 +8,8 @@
 - **Layout Interativo:** No projeto, temos algumas imagens que tem uma interação com o usuário após ele passar o mouse encima.
 
 - **Botões Clicáveis:** O site contém alguns botões que fazem o usuário ir de uma seção para a outra.
+
+
+### Screenshot
+
+<img src="/assets/oficina.png">
