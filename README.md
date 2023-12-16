@@ -10,7 +10,7 @@
 - **Botões Clicáveis:** O site contém alguns botões que fazem o usuário ir de uma seção para a outra.
 
 
-### Screenshot
+## Screenshot
 
 
 - Layout Preview
