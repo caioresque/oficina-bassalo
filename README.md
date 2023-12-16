@@ -12,4 +12,6 @@
 
 ### Screenshot
 
-- <img src="/assets/oficina.png">
+
+- Layout Preview
+ <img src="/assets/oficina.png">
