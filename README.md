@@ -1,4 +1,4 @@
-## Características Principais
+# Características Principais
 
 
 - **Design Responsivo:** O site se adapta perfeitamente a diversos tamanhos de tela, proporcionando uma experiência agradável tanto em dispositivos móveis quanto em desktops.
