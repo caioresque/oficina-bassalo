@@ -12,4 +12,4 @@
 
 ### Screenshot
 
-<img src="/assets/oficina.png">
+- <img src="/assets/oficina.png">
