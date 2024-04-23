@@ -21,8 +21,8 @@
 
 <div>
 
-- Facebook - <a href="https://www.facebook.com/caio.resque">@caio.resque</a>
-- Instagram - <a href="https://instagram.com/caio.resque">@caio.resque</a>
+- Facebook - <a href="https://www.facebook.com/caioresque">@caioresque</a>
+- Instagram - <a href="https://www.instagram.com/caioresque/">@caioresque</a>
 - LinkedIn - <a href="https://www.linkedin.com/in/caioresque">@caioresque</a>
 - Twitter - <a href="https://twitter.com/caioresque">@caioresque</a>
 - Email - <a href="mailto:caio.resque@gmail.com">caio.resque@gmail.com</a>
